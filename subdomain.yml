@@ -70,6 +70,21 @@ CNAME records:
 # If you are unsure what NS records do, we recommend using CNAME records instead.
 # Please add your custom domain in this zone.
 NS records:
+ - name: 360
+    value: ns0.1984.is
+    ttl: "86400"
+  - name: 360
+    value: ns1.1984hosting.com
+    ttl: "86400"
+  - name: 360
+    value: ns1.1984.is
+    ttl: "86400"
+  - name: 360
+    value: ns2.1984hosting.com
+    ttl: "86400"
+  - name: 360
+    value: ns2.1984.is
+    ttl: "86400"
   - name: test
     value: ns1.test.org
     ttl: "14400"
