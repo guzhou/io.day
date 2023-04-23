@@ -172,6 +172,22 @@ NS records:
     value: ns2.1984.is
     ttl: "86400"
     ttl: "14400"
+ - name: 360
+    value: ns0.1984.is
+    ttl: "86400"
+  - name: 360
+    value: ns1.1984hosting.com
+    ttl: "86400"
+  - name: 360
+    value: ns1.1984.is
+    ttl: "86400"
+  - name: 360
+    value: ns2.1984hosting.com
+    ttl: "86400"
+  - name: 360
+    value: ns2.1984.is
+    ttl: "86400"
+    ttl: "14400"
   - name: cauvang28
     value: ns41.cloudns.net
     ttl: "14400"
