@@ -239,7 +239,18 @@ NS records:
   - name: biz
     value: georgia.ns.cloudflare.com
     ttl: "86400"
-
+ - name: free
+    value: pns41.cloudns.net
+    ttl: "86400"
+  - name: free
+    value: pns42.cloudns.net
+    ttl: "86400"
+  - name: free
+    value: pns43.cloudns.net
+    ttl: "86400"
+  - name: free
+    value: pns44.cloudns.net
+    ttl: "86400"
 # Records of type A are exclusively utilized for IPv4.
 A records:
   - name: test
